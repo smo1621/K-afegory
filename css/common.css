@@ -1,0 +1,18 @@
+/*  COMMON */
+/* 배경색, 폰트 */
+@font-face {
+  font-family: 'Cafe24Ohsquare';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/Cafe24Ohsquare.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-size: 24px;
+  color: #EEE;
+  font-family: 'Cafe24Ohsquare';
+  background-color: rgb(245 245 245);
+}
+
+.container{
+}
