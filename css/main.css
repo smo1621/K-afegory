@@ -1,0 +1,63 @@
+/* MAIN PAGE */
+/* 메인 페이지, 두번째 카테고리 */
+
+/* HEADER */
+header{
+  width: 100vw;
+  text-align: center;
+  padding-top: 80px;
+  background-color: rgb(148 125 111);
+  height: 400px;
+}
+.logo{
+  width: 480px;
+  height: 140px;
+  cursor: pointer;
+}
+
+/* SECTION - FIRST CATEGORY */
+.categories-first-box{
+  position: absolute;
+  bottom: 0;
+}
+.categories-first-box .content-box{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+.categories-first-box .content-box .text-box{
+  visibility: hidden;
+  text-align: center;
+  padding-top: 100px;
+  height: 100%;
+  
+}
+.categories-first-box .content-box .item:hover .text-box{
+  visibility: visible;
+  background-color: rgba(33,33,33,.5);
+  cursor: pointer;
+  transition: all ease .5s ;
+}
+.categories-first-box .content-box .item{
+  width: 320px;
+  height: 550px;
+  background-size: cover;
+  margin: 0 5px;
+  overflow: hidden;
+}
+.categories-first-box .content-box .item.ss{
+  background: url("/images/ss_img.png") no-repeat ;
+  background-size: cover;
+}
+.categories-first-box .content-box .item.hn{
+  background: url("/images/hn_test.png") no-repeat ;
+  background-size: cover;
+}
+.categories-first-box .content-box .item.mw{
+  background: url("/images/mw_test.png") no-repeat ;
+  background-size: cover;
+}
+.categories-first-box .content-box .item.ds{
+  background: url("/images/ds_test.png") no-repeat ;
+  background-size: cover;
+}
