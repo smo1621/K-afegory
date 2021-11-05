@@ -57,7 +57,7 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 ## Authors
   - [whatsbirddd](https://github.com/whatsbirddd) - **Saeran Park** - <srpark2545@gmail.com>
  
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/whatsbirddd/K-afegory-Opinion-Mining-by-Sentiment-Analysis-Based-on-Naver-Blog/contributors)
 who participated in this project.
 <!--
 ## Used or Referenced Projects
