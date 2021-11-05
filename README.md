@@ -31,31 +31,30 @@ edit autoexec.bat
 
 _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
-## 개발 환경 설정
 
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
+## Update
 
-```sh
-make install
-npm test
-```
-
-## 업데이트 내역
-
-* 0.2.1
-    * 수정: 문서 업데이트 (모듈 코드 동일)
-* 0.2.0
-    * 수정: `setDefaultXYZ()` 메서드 제거
-    * 추가: `init()` 메서드 추가
-* 0.1.1
-    * 버그 수정: `baz()` 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)
-* 0.1.0
-    * 첫 출시
-    * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
 * 0.0.1
-    * 작업 진행 중
+    * ongoing
 
-# Authors
+## Contributing
+
+1. Fork the repo on GitHub
+2. Clone the project to your own machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull request so that we can review your changes
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
+
+
+## Authors
   - [whatsbirddd](https://github.com/whatsbirddd) - **Saeran Park** - <srpark2545@gmail.com>
  
 See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
@@ -66,18 +65,20 @@ who participated in this project.
 -->
 
 
-## 기여 방법
+## License
 
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
+```
+Copyright [2021] [whatsbirddd]
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
