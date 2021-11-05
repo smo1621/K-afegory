@@ -58,7 +58,7 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
   - [whatsbirddd](https://github.com/whatsbirddd) - **Saeran Park** - <srpark2545@gmail.com>
   - [smo1621](https://github.com/smo1621) - **Sumin Kim** - <smo1621@naver.com>
   - [crowwan](https://github.com/crowwan) - **Jinwan Kim** - <crowwan@naver.com>
-  - [eun723] (https://github.com/eun723) -**Eun Kim** - <k36737@naver.com>
+  - [eun723](https://github.com/eun723) -**Eun Kim** - <k36737@naver.com>
  
 See also the list of [contributors](https://github.com/whatsbirddd/K-afegory-Opinion-Mining-by-Sentiment-Analysis-Based-on-Naver-Blog/contributors)
 who participated in this project.
