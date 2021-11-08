@@ -7,7 +7,7 @@ header{
   text-align: center;
   padding-top: 80px;
   background-color: rgb(148 125 111);
-  height: 400px;
+  height: 45vh;
 }
 .logo{
   width: 480px;
@@ -39,8 +39,8 @@ header{
   transition: all ease .5s ;
 }
 .categories-first-box .content-box .item{
-  width: 320px;
-  height: 550px;
+  width: 20vw;
+  height: 45vh;
   background-size: cover;
   margin: 0 5px;
   overflow: hidden;
