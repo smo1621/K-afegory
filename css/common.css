@@ -13,6 +13,10 @@ body{
   font-family: 'Cafe24Ohsquare';
   background-color: rgb(245 245 245);
 }
+/* hide scroll bar */
+body::-webkit-scrollbar{
+  display: none;
+}
 
 .container{
 }
