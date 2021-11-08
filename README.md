@@ -11,17 +11,7 @@ We build a Korean Sentiment Lexicon about cafe based on review data in Naver. We
 
 ## Getting started
 
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
+Can use later...
 
 ## Examples
 
