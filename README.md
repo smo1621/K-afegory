@@ -1,35 +1,22 @@
 # K-afegory-Opinion-Mining-by-Sentiment-Analysis-Based-on-Naver-Blog
 > 😻A New Korean Sentiment Lexicon based on SNS and Opinion Mining based on Naver Blog
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![License][License-image]][license-url]
 
 
 ## About K-afegory
 
-We build a Korean Sentiment Lexicon about caffe based on review data in Naver. We did sentiment analysis mining by the Lexicon and the result showed on web that we made.
+We build a Korean Sentiment Lexicon about cafe based on review data in Naver. We did sentiment analysis mining by the Lexicon and the result showed on web that we made.
 
 
 ## Getting started
 
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
+Can use later...
 
 ## Examples
 
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
+You can check our [demo web site](http://kafegroy.dothome.co.kr).
 
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
 
 ## Update
@@ -46,12 +33,9 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 5. Submit a Pull request so that we can review your changes
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[License-image]: https://img.shields.io/badge/license-Apache%202.0-green
+[license-url]: https://github.com/whatsbirddd/K-afegory-Opinion-Mining-by-Sentiment-Analysis-Based-on-Naver-Blog/blob/main/LICENSE
+
 
 
 ## Authors
