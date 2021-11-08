@@ -25,7 +25,7 @@ edit autoexec.bat
 
 ## Examples
 
-You can check our [demo web site](kafegroy.dothome.co.kr).
+You can check our [demo web site](http://kafegroy.dothome.co.kr).
 
 
 
