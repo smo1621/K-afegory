@@ -10,6 +10,7 @@
 body{
   font-size: 24px;
   background-color: rgb(245 245 245);
+  overflow: hidden;
 }
 .ctname{
   display: inline-block;

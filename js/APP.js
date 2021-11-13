@@ -13,26 +13,7 @@ export default class APP{
     
   }
   _reset(){
-    const body = document.querySelector('body');
-    const top = document.documentElement.scrollTop;
-    if(top === 0){
-      console.log('hide');
-      body.style.overflow = 'hidden';
-    }else{
-      console.log('top is not 0');
-      const tm = new Promise((resolve,reject) =>{
-        clearTimeout(this.timeoutId);
-        console.log('in');
-        resolve();
-      });
-      tm.then(res => {
-        console.log('promise then');
-        window.scrollTo(0,0);
-        document.documentElement.scrollTop = 0;
-        console.log('done');
-      });
-    }
-    
+    history.scrollRestoration ='manual';
   }
   _setEvent(){
     const firstBox = document.querySelector('.categories-first-box');
@@ -44,7 +25,7 @@ export default class APP{
       if(fCategory.includes(value)){
         mainAPI.toScroll();
         body.style.overflow ='scroll';
-        this.timeoutId = setTimeout(mainAPI.preventScroll,1000,true);
+        setTimeout(mainAPI.preventScroll,500,true);
       }
     })
   }
