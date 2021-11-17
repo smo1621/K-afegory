@@ -5,7 +5,7 @@
 /* 
   TODO:
   1. main page - scroll to second page : js
-  2. second page - visual
+  2. second page - visual (11/13)
   3. second page - get/post categories
   4. second page - call next page
 */
@@ -34,14 +34,14 @@ header{
   width: 100vw;
   justify-content: center;
 }
-.categories-first-box .content-box .text-box{
+.categories-first-box .content-box .item .category{
   visibility: hidden;
   text-align: center;
   padding-top: 100px;
   height: 100%;
-  
+  width: 100%;
 }
-.categories-first-box .content-box .item:hover .text-box{
+.categories-first-box .content-box .item:hover .category{
   visibility: visible;
   background-color: rgba(33,33,33,.5);
   cursor: pointer;
@@ -74,9 +74,31 @@ header{
 /* SECOND CATEGORY BOX */
 .categories-second-box{
   width: 100vw;
-  height: 100vh;
   top: 100vh;
   background: url(/images/coffee-2242213_1920.jpg) no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+.categories-second-box .content-box{
+  display: inline-block;
+  width: 100vw;
+}
+.categories-second-box .content-box .item.right{
+  float:right;
+  right: 0;
+}
+.categories-second-box .content-box .item{
+  display: flex;
+  clear:both;
+  width: 50vw;
+  flex-direction: column;
+  background-color: rgba(33,33,33,.9);;
+  height: 45vh;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: width ease .3s;
+}
+.categories-second-box .content-box .item:hover{
+  width: 100vw;
 }
