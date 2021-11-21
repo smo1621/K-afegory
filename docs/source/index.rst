@@ -6,15 +6,12 @@
 Welcome to k-afegory's documentation!
 =====================================
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: GETTING START:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   gettingStart/gettingstart
+   gettingStart/example
+   gettingStart/installation
