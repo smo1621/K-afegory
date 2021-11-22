@@ -2,9 +2,10 @@ import mainAPI from "./mainAPI.js";
 
 export default class APP{
   constructor(page){
+    const keyName = 'categories';
     if(page === 'main'){
-      this._reset();
-      this._setEvent(); 
+      this._reset(keyName);
+      this._setEvent(keyName); 
     }else if(page ==='module'){
 
     }else{
@@ -12,20 +13,31 @@ export default class APP{
     }
     
   }
-  _reset(){
+  _reset(keyName){
     history.scrollRestoration ='manual';
+    mainAPI.initLocalStorage(keyName);
   }
-  _setEvent(){
+  _setEvent(keyName){
     const firstBox = document.querySelector('.categories-first-box');
+    const secondBox = document.querySelector('.categories-second-box');
     const fCategory = ['hn','ss','mw','ds'];
     const body = document.querySelector('body');
-    
+    const categories = new Object();
     firstBox.addEventListener('click', (e)=>{
       const value = e.target.dataset.value;
       if(fCategory.includes(value)){
+        categories.fCategory = value;
         mainAPI.toScroll();
         body.style.overflow ='scroll';
         setTimeout(mainAPI.preventScroll,500,true);
+      }
+    })
+    secondBox.addEventListener('click',(e)=>{
+      const value = e.target.dataset.value;
+      if(value){
+        categories.sCategory = value;
+        mainAPI.setLocalStorage(keyName,JSON.stringify(categories));
+        console.log(localStorage.getItem(keyName));
       }
     })
   }
