@@ -23,18 +23,16 @@ export default class mainAPI{
       return false;
     }
   }
-  static initLocalStorage(){
-    if(this.isInLocalStorage('fcategory')){
-      localStorage.removeItem('fcategory');
-    }
-    if(this.isInLocalStorage('scategory')){
-      localStorage.removeItem('scategory');
+  static initLocalStorage(key){
+    if(this.isInLocalStorage(key)){
+      localStorage.removeItem(key);
     }
   }
 
-  static setLocalStorage(f,s){
-    localStorage.setItem('fcategory',f);
-    localStorage.setItem('scategory',s);
+  static setLocalStorage(key,value){
+    if(!localStorage.getItem(key)){
+      localStorage.setItem(key,value);
+    }
   }
 
   static loadLocalStorage(){
