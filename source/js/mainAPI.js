@@ -15,4 +15,29 @@ export default class mainAPI{
     };
     document.addEventListener('scroll',prevent);
   }
+
+  static isInLocalStorage(key){
+    if(localStorage.getItem(key)){
+      return true;
+    }else{
+      return false;
+    }
+  }
+  static initLocalStorage(){
+    if(this.isInLocalStorage('fcategory')){
+      localStorage.removeItem('fcategory');
+    }
+    if(this.isInLocalStorage('scategory')){
+      localStorage.removeItem('scategory');
+    }
+  }
+
+  static setLocalStorage(f,s){
+    localStorage.setItem('fcategory',f);
+    localStorage.setItem('scategory',s);
+  }
+
+  static loadLocalStorage(){
+
+  }
 }
