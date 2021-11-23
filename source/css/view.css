@@ -1,2 +1,68 @@
 /* CATEGORY VISUAL */
 /* 카페 보여주는 페이지, 모달창 */
+
+/* VIEW PAGE */
+
+/* Header */
+header{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.ctname{
+    color: black;
+    font-size: 42px;
+}
+.cttext{
+    color : black;
+}
+.container{
+    height: 100vh;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+/* Body */
+.kafegory-view-page{
+    width: 100wh;
+    top : 100vh;
+}
+body{
+    overflow: scroll;
+}
+.kafegory-view-page .content-box{
+    display: inline-block;
+    width: 100wh;
+}
+.kafegory-view-page .content-box .left-content{
+    display : inline-block;
+    width : 100vw;
+    margin-left: 80px;
+    margin-top : 100px;
+}
+.kafegory-view-page .content-box .left-content .cafe-image{
+    display: inline-block;
+    width: auto;
+} 
+.kafegory-view-page .content-box .left-content .cafe-impormation{
+    display: inline-block;
+    width: auto;
+
+}
+.kafegory-view-page .content-box .right-content{
+    float:right;
+    right: 0;
+    margin-right: 160px;
+    margin-top : 100px;
+}
+.kafegory-view-page .content-box .right-content .cafe-image{
+    display: inline-block;
+    width: auto;
+} 
+.kafegory-view-page .content-box .right-content .cafe-impormation{
+    display: inline-block;
+    width: auto;
+}
+
+
