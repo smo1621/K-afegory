@@ -15,4 +15,27 @@ export default class mainAPI{
     };
     document.addEventListener('scroll',prevent);
   }
+
+  static isInLocalStorage(key){
+    if(localStorage.getItem(key)){
+      return true;
+    }else{
+      return false;
+    }
+  }
+  static initLocalStorage(key){
+    if(this.isInLocalStorage(key)){
+      localStorage.removeItem(key);
+    }
+  }
+
+  static setLocalStorage(key,value){
+    if(!localStorage.getItem(key)){
+      localStorage.setItem(key,value);
+    }
+  }
+
+  static loadLocalStorage(){
+
+  }
 }
