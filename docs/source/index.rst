@@ -15,7 +15,7 @@ We build a Korean Sentiment Lexicon about cafe based on review data in Naver. We
    :caption: GETTING START:
 
 
-   gettingStart/gettingstarvt
+   gettingStart/gettingstart
    gettingStart/example
    gettingStart/installation
 
