@@ -27,9 +27,14 @@ export default class APP{
       const value = e.target.dataset.value;
       if(fCategory.includes(value)){
         categories.fCategory = value;
-        mainAPI.toScroll();
-        body.style.overflow ='scroll';
-        setTimeout(mainAPI.preventScroll,500,true);
+        if(value === 'ss'){
+          mainAPI.toScroll();
+          body.style.overflow ='scroll';
+          setTimeout(mainAPI.preventScroll,500,true);
+        }
+        else{
+          mainAPI.canNotAccess();
+        }
       }
     })
     secondBox.addEventListener('click',(e)=>{

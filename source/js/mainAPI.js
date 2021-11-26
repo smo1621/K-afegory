@@ -2,7 +2,6 @@ export default class mainAPI{
   static toScroll(){
     const loc = document.querySelector('#tohere').offsetTop;
     window.scrollTo({top: loc, behavior:'smooth'});
-    
   }
   static preventScroll(isPrevented){
     const loc = document.querySelector('#tohere').offsetTop;
@@ -15,7 +14,9 @@ export default class mainAPI{
     };
     document.addEventListener('scroll',prevent);
   }
-
+  static canNotAccess(){
+    alert("You can NOT access Yet.");
+  }
   static isInLocalStorage(key){
     if(localStorage.getItem(key)){
       return true;
