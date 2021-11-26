@@ -1,3 +1,40 @@
+/*
+TODO:
+JSON FORMAT
+[
+  {
+    'CAFENAME':
+    'IMGLINK':[]
+    'DATA':{}
+    'ISLEFT':
+    'ISUP?':
+  }
+  ,
+  {
+    'CAFENAME':
+    'IMGLINK':[]
+    'DATA':{}
+    'ISLEFT':
+    'ISUP?':
+  },
+  {
+    'CAFENAME':
+    'IMGLINK':[]
+    'DATA':{}
+    'ISLEFT':
+    'ISUP?':
+  },
+  {
+    'CAFENAME':
+    'IMGLINK':[]
+    'DATA':{}
+    'ISLEFT':
+    'ISUP?':
+  }
+]
+ */
+
+
 export default class mainAPI{
   static toScroll(){
     const loc = document.querySelector('#tohere').offsetTop;
