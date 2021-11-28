@@ -1,0 +1,45 @@
+[
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211127_181%2F1637974266792reT9i_JPEG%2Fupload_e8d06732b0e2ef69fdd66ab56e015411.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211124_46%2F1637759398706nn8Ha_JPEG%2Fupload_c628748d8f3569a53ac6f4d1169feac9.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211122_255%2F16375914999297nyto_JPEG%2Fupload_068b6ced60861e7f399815a53c33da78.jpeg"],
+    "DATA":{
+      "CAFENAME":"서울 앵무새",
+      "OPTIME":"매일 10:00 ~ 23:00",
+      "ADDRESS":"서울 성동구 서울숲9길 3"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211128_112%2F1638071797661OQ76Q_JPEG%2Fupload_f4829a5083bd416294ed1ca8044cea97.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211115_154%2F1636940151715X4Y2x_JPEG%2Fupload_85225deea7eb92f061170b42f5bb9019.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211115_212%2F1636940190566upjcY_JPEG%2Fupload_071dd827e99ec143fff1194b0246c920.jpeg"],
+    "DATA":{
+      "CAFENAME":"묘사서울",
+      "OPTIME":"평일 12:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 서울숲2길 2"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211127_55%2F1637992119952p2kzO_JPEG%2Fupload_50f11f368325acab46a1a4eaf14a6612.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211113_168%2F1636814269494CXhK1_JPEG%2Fupload_bf9e7b2e1f6dc6abdfc93791d9ff884e.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211111_107%2F1636558606098CGGpN_JPEG%2Fupload_239a5ea9fca23712b45fab878893533c.jpeg"],
+    "DATA":{
+      "CAFENAME":"어니언 성수",
+      "OPTIME":"월~금 08:00 ~ 22:00 / 토,일 10:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 아차산로9길 8"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210620_166%2F16241502256343cWGY_JPEG%2Fupload_d6166e875b172d7f5a9430a4322a9188.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA2MjNfMTI3%2FMDAxNTkyODgzNTc5NjUx.iKeiRCk5cBGh1tucdQZdXKEelaU4QPxbaMFB8Z-_BIUg.pQ91Ze6Nbkj-h5aN2p6zq2yhSt_BklD9WOaukUDgUK0g.JPEG.jday7%2FIMG_9824.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f180_180&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210505_220%2F1620141174031TvPss_JPEG%2Fupload_9a8d463c6b86afe183b5f5b3fb40166c.jpeg"],
+    "DATA":{
+      "CAFENAME":"플디",
+      "OPTIME":"매일 12:00 ~ 20:00",
+      "ADDRESS":"서울 성동구 상원길 44"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+]

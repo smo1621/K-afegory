@@ -6,12 +6,10 @@ export default class APP{
     if(page === 'main'){
       this._reset(keyName);
       this._setEvent(keyName); 
-    }else if(page ==='module'){
-
-    }else{
+    }
+    else{
       console.log('error');
     }
-    
   }
   _reset(keyName){
     history.scrollRestoration ='manual';
@@ -42,7 +40,6 @@ export default class APP{
       if(value){
         categories.sCategory = value;
         mainAPI.setLocalStorage(keyName,JSON.stringify(categories));
-        console.log(localStorage.getItem(keyName));
       }
     })
   }
