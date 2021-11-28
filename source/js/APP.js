@@ -6,12 +6,10 @@ export default class APP{
     if(page === 'main'){
       this._reset(keyName);
       this._setEvent(keyName); 
-    }else if(page ==='module'){
-
-    }else{
+    }
+    else{
       console.log('error');
     }
-    
   }
   _reset(keyName){
     history.scrollRestoration ='manual';
@@ -27,9 +25,14 @@ export default class APP{
       const value = e.target.dataset.value;
       if(fCategory.includes(value)){
         categories.fCategory = value;
-        mainAPI.toScroll();
-        body.style.overflow ='scroll';
-        setTimeout(mainAPI.preventScroll,500,true);
+        if(value === 'ss'){
+          mainAPI.toScroll();
+          body.style.overflow ='scroll';
+          setTimeout(mainAPI.preventScroll,500,true);
+        }
+        else{
+          mainAPI.canNotAccess();
+        }
       }
     })
     secondBox.addEventListener('click',(e)=>{
@@ -37,7 +40,6 @@ export default class APP{
       if(value){
         categories.sCategory = value;
         mainAPI.setLocalStorage(keyName,JSON.stringify(categories));
-        console.log(localStorage.getItem(keyName));
       }
     })
   }

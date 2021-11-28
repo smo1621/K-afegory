@@ -35,6 +35,9 @@ body{
     display: inline-block;
     width: 100wh;
 }
+.kafegory-view-page .content-box .content-item{
+    cursor: pointer;
+}
 .kafegory-view-page .content-box .left-content{
     display : inline-block;
     width : 100vw;
@@ -43,12 +46,19 @@ body{
 }
 .kafegory-view-page .content-box .left-content .cafe-image{
     display: inline-block;
-    width: auto;
-} 
-.kafegory-view-page .content-box .left-content .cafe-impormation{
-    display: inline-block;
+    position: relative;
     width: auto;
 
+} 
+.kafegory-view-page .content-box .left-content .cafe-information{
+    display: inline-block;
+    position: relative;
+    width: auto;
+    bottom : 70px;
+    left: 30px;
+    font-family: 'EliceDigitalBaeum_Regular';
+    font-style: bold;
+    font-size: 24px;
 }
 .kafegory-view-page .content-box .right-content{
     float:right;
@@ -59,10 +69,61 @@ body{
 .kafegory-view-page .content-box .right-content .cafe-image{
     display: inline-block;
     width: auto;
+    position : relative;
 } 
-.kafegory-view-page .content-box .right-content .cafe-impormation{
+.kafegory-view-page .content-box .right-content .cafe-information{
     display: inline-block;
     width: auto;
+    position: relative;
+    bottom : 70px;
+    right: 30px;
+    text-align: right;
+    font-family: 'EliceDigitalBaeum_Regular';
+    font-style: bold;
+    font-size: 24px;
 }
 
 
+/* MODAL */
+
+.modal{
+    display: none;
+    position: fixed;
+    background-color: rgba(3,3,3,.8);
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+}
+.modal .modal-box{
+    display: flex;
+    width: 80vw;
+    height: 80vh;
+    margin: 10vh auto;
+}
+.modal-box #map{
+    width: 50%;
+    height: 100%;
+}
+.modal-box #info{
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    background-color:  rgb(245 245 245);
+    font-family: 'EliceDigitalBaeum_Regular';
+    box-sizing: border-box;
+}
+.modal-box #info .cafe.name .cttext{
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+.modal-box #info .cttext{
+    display: block;
+    margin-bottom: 10px;
+}
+.modal-box #info .cafe{
+    
+}
+.visual{
+    display: block;
+}
