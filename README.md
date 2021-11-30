@@ -38,7 +38,7 @@ You can check our [demo web site](http://kafegroy.dothome.co.kr).
 
 
 
-## Authors
+## Contact us
   - [whatsbirddd](https://github.com/whatsbirddd) - **Saeran Park** - <srpark2545@gmail.com>
   - [smo1621](https://github.com/smo1621) - **Sumin Kim** - <smo1621@naver.com>
   - [crowwan](https://github.com/crowwan) - **Jinwan Kim** - <crowwan@naver.com>
