@@ -83,7 +83,11 @@ header{
   display: inline-block;
   width: 100vw;
 }
-.categories-second-box .content-box .item.right{
+.categories-second-box .content-box li{
+  display: flex;
+  clear:both;
+}
+.categories-second-box .content-box li.right{
   float:right;
   right: 0;
 }
