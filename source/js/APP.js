@@ -13,6 +13,7 @@ export default class APP{
   }
   _reset(keyName){
     history.scrollRestoration ='manual';
+    mainAPI.initLocalStorage('data');
     mainAPI.initLocalStorage(keyName);
   }
   _setEvent(keyName){
