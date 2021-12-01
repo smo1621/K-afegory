@@ -1,0 +1,45 @@
+[
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAyMjhfMTkg%2FMDAxNjE0NTAyODc5NTU2.Bhb4kOyXD14a5MV-aIJrdhdfetuIE9Al6CoOvnmjE2gg.aJslz803nF05-idhD4cxOyEQdhIQmronusyauRUb098g.JPEG.tgi9302%2F1614502876487.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA5MjVfMjg5%2FMDAxNjAxMDAwNTU5MTI2.Z3YOJ1b5-OYjVAA_BaYV-yIyeuCxypuGhHotr_AnfGAg.jR4GQp8bb3xcoS75x7Ae0vY2LeatG3yT5UE_tJZOnO4g.JPEG.sonaj32%2FIMG_0483.JPG","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210511_51%2F1620721894105USAhm_JPEG%2Fupload_8aa5fc36b399cb18b3337ed919efffa7.jpeg"],
+    "DATA":{
+      "CAFENAME":"어라운드데이",
+      "OPTIME":"매일 12:00 ~ 21:00",
+      "ADDRESS":"서울 성동구 서울숲2길 24-1"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200620_261%2F1592615548985L275H_JPEG%2FoBuP6xbJx9uM8ouPAnQ-qmzs.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200620_196%2F1592615549001Neqtd_JPEG%2FN2C0Fniud-vJ22DTmvZLkFgi.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211120_257%2F1637406627984DUOjy_JPEG%2Fupload_68f97cd30764da84c20e94e05566caca.jpeg"],
+    "DATA":{
+      "CAFENAME":"구욱희씨",
+      "OPTIME":"매일 12:00 ~ 23:00",
+      "ADDRESS":"서울 성동구 서울숲4길 12-22"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200214_277%2F1581677321314ld3e8_JPEG%2FlrzUIE9Z53CXxZ4YRAnG6xK7.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210821_265%2F1629513542109wzsSK_JPEG%2Fupload_760fc330cdc2979823f14ba1d6282ed6.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200214_182%2F1581677333524FmARv_JPEG%2Fx8EMmpkK98QIogBmFtLe8bFH.jpg"],
+    "DATA":{
+      "CAFENAME":"5TO7",
+      "OPTIME":"월,화 11:30 ~ 21:00",
+      "ADDRESS":"서울 성동구 서울숲2길 44-13"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200818_215%2F1597749722530WqwfO_JPEG%2Fupload_fc3f7e308b2ad4781b8c384feae605a7.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200722_189%2F1595375480956oLsli_JPEG%2Fupload_9fa7aa0edc210fa3c41fed9c39430ed1.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20201028_75%2F1603867707944jxW69_JPEG%2Fupload_c337b21a4af9b0cdab581f85833fce03.jpeg"],
+    "DATA":{
+      "CAFENAME":"루프탑카페 연무장",
+      "OPTIME":"매일 12:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 연무장길 36"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+]

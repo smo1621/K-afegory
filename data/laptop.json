@@ -1,0 +1,45 @@
+[
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20201122_153%2F1606016234133PNkcd_JPEG%2Fupload_27e57c0c28a1aef1a0a58f17c38ff082.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200625_43%2F15930673705323zsYv_JPEG%2Fupload_3448b291f127962024b8d852c4312ede.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200808_223%2F15968877674530cV3Y_PNG%2F%25C4%25DA%25C6%25BC%25C0%25C7%25B9%25E3.PNG"],
+    "DATA":{
+      "CAFENAME":"코사이어티 서울숲점",
+      "OPTIME":"화~일 12:00 ~ 20:00",
+      "ADDRESS":"서울 성동구 왕십리로 82-20"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170316_266%2F1489628926442Oz6EG_JPEG%2F186265573124545_3.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170316_298%2F1489628926989TqPYu_JPEG%2F186265573124545_9.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180628_132%2F1530178745191vUB1Q_PNG%2F0pOLlvYOSmupDDrv-OrN8QVP.png"],
+    "DATA":{
+      "CAFENAME":"카페오롯",
+      "OPTIME":"매일 12:00 ~ 23:00",
+      "ADDRESS":"서울 성동구 상원6나길 7"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200228_29%2F1582866445799j65Nn_JPEG%2FVcxAU2a9ZEmZg8Nw6l5zxR0A.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200718_32%2F1594998864808u3uVi_JPEG%2Fupload_b2809563b542dc16ba46928258d0f17a.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMjdfMjgg%2FMDAxNjA2NDczNTQyNTk3.44fiHc9zgtwE6ax_HrvG0bhzhyusfwBxkTloUK4NX5Mg.N2M0wWauJIEWjvoP6PxSwKqtZTqJd-P89rlq6oMjlqQg.JPEG.19peanut%2F23.jpg"],
+    "DATA":{
+      "CAFENAME":"오브코하우스",
+      "OPTIME":"수,목,일 12:00 ~ 18:00",
+      "ADDRESS":"서울 성동구 서울숲6길 17"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210917_114%2F1631867285569GbJfz_JPEG%2Fupload_5c54a63c5bfd85c89dd0a6a6b597c086.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200722_189%2F1595375480956oLsli_JPEG%2Fupload_9fa7aa0edc210fa3c41fed9c39430ed1.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210704_114%2F1625396075098Q4Iyb_JPEG%2Fupload_cea0e3f61a707e288d0f31d60b6d2461.jpeg"],
+    "DATA":{
+      "CAFENAME":"오우드",
+      "OPTIME":"매일 11:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 연무장길 101-1 B동"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+]
