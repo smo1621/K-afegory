@@ -23,6 +23,12 @@ img{
     height: 200px;
 }
 
+.cafegory-text {
+    width:fit-content;
+    border-bottom: 4px solid #bc5434;
+    padding-bottom: 5px;
+}
+
 /* Body */
 .kafegory-view-page{
     width: 100wh;
@@ -30,6 +36,7 @@ img{
 }
 body{
     overflow: scroll;
+    background-color: #f5f1e1;
 }
 .kafegory-view-page .content-box{
     display: inline-block;
@@ -108,7 +115,7 @@ body{
     width: 50%;
     height: 100%;
     padding: 20px;
-    background-color:  rgb(245 245 245);
+    background-color: #f5f1e1;
     font-family: 'EliceDigitalBaeum_Regular';
     box-sizing: border-box;
 }
@@ -121,9 +128,99 @@ body{
     display: block;
     margin-bottom: 10px;
 }
-.modal-box #info .cafe{
-    
+
+.modal-box #info .name{
+    display: block;
+    position: relative;
+    margin-top: 30px;
 }
+
+.modal-box #info .cafe.name.icon{
+    display: inline-block;
+    position: relative;
+    margin-left : 100px;
+}
+
+.modal-box #info .cafe.name.text{
+    display: inline-block;
+    position: relative;
+    border-bottom: 4px solid #117720;
+    width: 16vw;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 10px;
+}
+
+.modal-box #info .work{
+    display: block;
+    position: relative;
+    margin-top: 20px;
+}
+
+.modal-box #info .cafe.date.icon{
+    display: inline-block;
+    position: relative;
+    margin-left : 80px;
+    color : #604719;
+}
+
+.modal-box #info .cafe.date.text{
+    display: inline-block;
+    position: relative;
+    border-left: 4px solid #117720;
+    padding-left: 5px;
+    height: 22px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+
+.modal-box #info .cafe.address.icon{
+    display: inline-block;
+    position: relative;
+    margin-top : 20px;
+    margin-left : 77px;
+    color: #3f02eb;
+}
+
+.modal-box #info .cafe.address.text{
+    display: inline-block;
+    position: relative;
+    border-left: 4px solid #117720;
+    padding-left: 5px;
+    height: 22px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.modal-box #info .address{
+    display: block;
+    position: relative;
+}
+
+.modal-box #info .cafe.react.icon{
+    display: inline-block;
+    position: relative;
+    margin-top : 20px;
+    margin-left : 78px;
+    color: #ed2335;
+}
+
+.modal-box #info .cafe.react.text{
+    display: inline-block;
+    position: relative;
+    border-left: 4px solid #117720;
+    padding-left: 5px;
+    height: 22px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
 .visual{
     display: block;
 }
+

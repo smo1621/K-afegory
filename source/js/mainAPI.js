@@ -76,12 +76,14 @@ export default class mainAPI{
     const infoBox = document.querySelector('#info');
     infoBox.innerHTML =
     `
-    <div class="cafe name text"><span class="cttext">카페명 : ${data.DATA.CAFENAME}</span></div>
-            <div class="cafe date text"><span class="cttext">영업 날짜 : ${data.DATA.OPTIME}</span></div>
-            <div class="cafe address text"><span class="cttext"> 주소 : ${data.DATA.ADDRESS}
-            </span></div>
-            <div class="cafe react text"><span class="cttext"> 방문자 반응 : ${data.ISUP}
-            </span></div>
+    <div class = "name"><div class="cafe name icon"><i class="fas fa-check fa-1x"></i></div>
+    <div class="cafe name text"><span class="cttext">카페명 : ${data.DATA.CAFENAME}</span></div></div>
+            <div class = "work"> <div class = "date"> <div class="cafe date icon"><i class="far fa-calendar-check fa-1x"></i></div>
+            <div class="cafe date text"><span class="cttext">영업 날짜 : ${data.DATA.OPTIME}</span></div></div></div>
+            <div class = "address"><div class="cafe address icon"><i class="fas fa-location-arrow fa-1x"></i></div>
+            <div class="cafe address text"><span class="cttext"> 주소 : ${data.DATA.ADDRESS}</span></div></div>
+            <div class="cafe react icon"><i class="fas fa-heart fa-1x"></i></div>
+            <div class="cafe react text"><span class="cttext"> 방문자 반응 : ${data.ISUP}</span></div>
     `
   }
   static viewActions(action,data){
