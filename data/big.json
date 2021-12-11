@@ -1,0 +1,34 @@
+[
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzEwMjFfMjEx%2FMDAxNTA4NTkwMTE1MzM4.n2EsIvLSkhVQbC2Rca36EtCm6TYtqCKyG664wqNVHzAg.ST0YjjJWSpi8GoaN4IFa-b7A5hpHKSO3SXtT9nF98Cwg.JPEG.uhmoo%2FIMG_7853.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200802_166%2F1596360639434YRyPJ_JPEG%2Fupload_e4bdc0722dc31d7d86407aa8a307b094.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20200711_80%2F15944660861663MUqC_JPEG%2Fupload_f38e30a6e2d0c415d6cbaf1f174fef3d.jpg"],
+    "DATA":{
+      "CAFENAME":"멜로워 성수플래그쉽",
+      "OPTIME":"월~일 11:00 ~ 21:30 / 수 09:30 ~ 21:30",
+      "ADDRESS":"서울 성동구 성수이로7길 39"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211029_256%2F1635488198421SgtWd_JPEG%2Fupload_77a3201a10434ff82e1ff89e26156dd1.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211201_266%2F1638284894135bQsH9_JPEG%2Fupload_93180cfc5ada2f45852794a65348fcb7.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MTBfOTkg%2FMDAxNTk3MDcwMjY1MTE3.l1yBJVavYZPVjMCpoZsBrMrpBYKWD_jR3ymoljc-P10g.9-ON6QBWIiaMtifh9TTDG6WU5C3Lf-6NLXjpOjc9_KMg.JPEG.sssl4755%2FIMG_5639.jpg"],
+    "DATA":{
+      "CAFENAME":"옹근달",
+      "OPTIME":"매일 11:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 성수이로 7길 41-1"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190326_260%2F1553563593475c49sv_JPEG%2FvEJ4-9XVViNQ0c7vc6s_lm34.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MjNfMTE1%2FMDAxNjE5MTM3OTUyMjg5.2CZjLp2S_IbKKcIpyNdbn2YWlt4lJ4M4bMeSwmr5uT0g.TlsI9gEueJXumYCc_oQXFPqtygjqyPvr6WMb9vRdjTEg.JPEG.intery1108%2F1619137940986.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMjJfMTI2%2FMDAxNjM0ODM1NDQ0Njg0.4fY8RKWKVRs-EV_XeFLR96e9vZ1s9v0wGMQXIcsdKF4g.uhMGqOW0ss0vg97vOWRrPtM9ltE9U9EYMoROfuznCU8g.JPEG.boys1531%2FIMG_9091.jpg"],
+    "DATA":{
+      "CAFENAME":"할아버지공장",
+      "OPTIME":"매일 11:00 ~ 22:30",
+      "ADDRESS":"서울 성동구 성수이로7가길 9"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+]

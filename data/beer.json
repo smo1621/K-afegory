@@ -1,0 +1,45 @@
+[
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20201011_157%2F1602415538298kCmyy_JPEG%2Fupload_8b6384fe82dc5ffb6bc5067511dfe7e2.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MTJfMjc3%2FMDAxNjE4MTU5MDAxODg3.eTRDqEO2ywhbqNWXJaokPm-K7VIPW_3FjbthqpHgGvUg.abeaC8peK_aN7an7oBx5fnl5WmoGkjTr60crI6zxg2Ug.JPEG.seconddayid%2F20210217%25A3%25DF204428.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20201119_277%2F1605782647397RqSeM_JPEG%2Fupload_7492ff0ba6757711419b2600fc43fe5e.jpeg"],
+    "DATA":{
+      "CAFENAME":"대림창고",
+      "OPTIME":"매일 11:00 ~ 23:00",
+      "ADDRESS":"서울 성동구 성수이로 78"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210920_182%2F1632120758053IBVIP_JPEG%2Fupload_e83d2239d9b99cc30497950a5492fcbc.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210405_45%2F1617634161493RhXtL_JPEG%2Fupload_a732a1c682504b8de4a3c0f4ea08fb7d.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MTdfNDAg%2FMDAxNTk3NjMwNDU3NjM2.tjRQiAfN29M70FiYO7rk1J_Oh4lpWLGN0vjKxvA7JLwg.4xW55eh4-iH9MLrexN2ShPLZ4fMV6tnCRojNghG48T4g.JPEG.sojeong1224%2Foutput_3218918953.jpg"],
+    "DATA":{
+      "CAFENAME":"하프커피 성수점",
+      "OPTIME":"매일 11:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 서울숲4길 12"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210520_266%2F1621508097667QBY2W_JPEG%2Fupload_41539c80a65c317f5f872ac6355536fd.jpeg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190806_73%2F1565081780859HEDXR_JPEG%2FDn3RIFRYUb7hFyFLz6rgcwli.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190919_99%2F1568897901590rMixd_JPEG%2F1qsYYfUyVZ9LqQXtnZ8V1sZe.jpg"],
+    "DATA":{
+      "CAFENAME":"체다앤올리",
+      "OPTIME":"월~금 11:00 ~ 21:00 / 토,일 10:00 ~ 21:00",
+      "ADDRESS":"서울 성동구 서울숲2길 32-14"
+    },
+    "ISLEFT":"left",
+    "ISUP":"true"
+  }
+  ,
+  {
+    "IMGLINK":["https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20211106_44%2F1636184197352QwMjW_JPEG%2Fupload_69331e5646df89c21e62e52bd2fb9d7c.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fmyplace-phinf.pstatic.net%2F20210328_11%2F1616938230760O4TSl_JPEG%2Fupload_11c6774102638219a0a2d69ade49ce6f.jpg","https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MTlfMTUz%2FMDAxNjIxNDI5OTk5ODA2.pnd-f3VctAhezRRZ5r6WGaptsf_3PuJaViHafXWeP-Ag.g04_XPX97LIQaJZjwbsuYbED4bhVD9XOv1FEdw1JA9kg.JPEG.praisenari%2F1621429996873.jpg"],
+    "DATA":{
+      "CAFENAME":"마크69",
+      "OPTIME":"매일 11:00 ~ 22:00",
+      "ADDRESS":"서울 성동구 서울숲길 24"
+    },
+    "ISLEFT":"right",
+    "ISUP":"true"
+  }
+]

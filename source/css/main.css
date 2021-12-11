@@ -13,7 +13,7 @@ header{
   width: 100vw;
   text-align: center;
   padding-top: 80px;
-  background-color:#f5f1e1;
+  background-color:#6667AB;
   height: 50vh;
 }
 .logo{
@@ -83,7 +83,11 @@ header{
   display: inline-block;
   width: 100vw;
 }
-.categories-second-box .content-box .item.right{
+.categories-second-box .content-box li{
+  display: flex;
+  clear:both;
+}
+.categories-second-box .content-box li.right{
   float:right;
   right: 0;
 }
