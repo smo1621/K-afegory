@@ -13,7 +13,7 @@ header{
   width: 100vw;
   text-align: center;
   padding-top: 80px;
-  background-color: rgb(148 125 111);
+  background-color:#f5f1e1;
   height: 50vh;
 }
 .logo{
@@ -75,7 +75,7 @@ header{
 .categories-second-box{
   width: 100vw;
   top: 100vh;
-  background: url(../images/coffee-2242213_1920.jpg) no-repeat;
+  background: url("../images/second_page_img.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
