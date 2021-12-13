@@ -14,7 +14,20 @@ export default class viewAPP{
   }
   _reset(obj){
     history.scrollRestoration ='manual';
-    console.log(obj.sCategory);
+    const ctname = document.querySelector('.cafegory-text .ctname');
+    if(obj.sCategory === 'dessert'){
+      ctname.textContent = '디저트가 맛있는 카페';
+    }else if(obj.sCategory ==='laptop'){
+      ctname.textContent = '노트북하기 좋은 카페';
+    }else if(obj.sCategory ==='big'){
+      ctname.textContent = '대형 카페';
+    }else if(obj.sCategory ==='photo'){
+      ctname.textContent = '포토존이 있는 카페';
+    }else if(obj.sCategory ==='terrace'){
+      ctname.textContent = '루프탑&테라스 있는 카페';
+    }else {
+      ctname.textContent = '맥주와 함께하는 카페';
+    }
 
     mainAPI.viewActions("view",obj.sCategory);
   }
