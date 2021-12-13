@@ -7,7 +7,7 @@
       "ADDRESS":"서울 성동구 연무장5길 20"
     },
     "ISLEFT":"left",
-    "ISUP":"true"
+    "ISUP":"1.8"
   }
   ,
   {
@@ -18,7 +18,7 @@
       "ADDRESS":"서울 성동구 연무장3길 9"
     },
     "ISLEFT":"right",
-    "ISUP":"true"
+    "ISUP":"1.1"
   }
   ,
   {
@@ -29,7 +29,7 @@
       "ADDRESS":"서울 성동구 성수이로 82"
     },
     "ISLEFT":"left",
-    "ISUP":"true"
+    "ISUP":"0.7"
   }
   ,
   {
@@ -40,6 +40,6 @@
       "ADDRESS":"서울 성동구 연무장길 28-16"
     },
     "ISLEFT":"right",
-    "ISUP":"true"
+    "ISUP":"0.6"
   }
 ]

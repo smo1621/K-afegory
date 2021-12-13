@@ -33,6 +33,9 @@ export default class mainAPI{
   static setLocalStorage(key,value){
     if(!localStorage.getItem(key)){
       localStorage.setItem(key,value);
+    }else{
+      localStorage.removeItem(key);
+      localStorage.setItem(key,value);
     }
   }
 
